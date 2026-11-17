@@ -1,0 +1,4 @@
+- [Завдання 1](https://github.com/OleksandrMykolyshyn/goit-pycore-hw-03/blob/main/task_1.py)
+- [Завдання 2](https://github.com/OleksandrMykolyshyn/goit-pycore-hw-03/blob/main/task_2.py)
+- [Завдання 3](https://github.com/OleksandrMykolyshyn/goit-pycore-hw-03/blob/main/task_3.py)
+- [Завдання 4](https://github.com/OleksandrMykolyshyn/goit-pycore-hw-03/blob/main/task_4.py)
